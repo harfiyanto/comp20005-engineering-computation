@@ -1,5 +1,5 @@
-### COMP20005 Engineering Computation Project
+# COMP20005 Engineering Computation Project
 ## University of Melbourne
 
-# Author
+### Author
 Harfiyanto Santoso
